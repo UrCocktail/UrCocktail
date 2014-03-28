@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="CocktailGenerico2.java|Colores3.java|Configuracion2.java|Despleglable.java|Fichero.java|Fichero2.java|Fichero3.java|Licores3.java|MainClass.java|TextIO.java|VasoCollins3.java|VasoVino3.java|Vasos3.java|background.java|ButtonScroll.java|CopyOfTipos3.java|CopyOfTipos.java|CopyOfCopyOfbackground.java|CopyOfButtonScroll.java|CopyOfbackground.java|Inicio.java|Tipos3.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="Vasos"/>
+	<classpathentry kind="src" path="Colores"/>
+	<classpathentry kind="src" path="Licores"/>
+	<classpathentry kind="src" path="Tipos"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="Imagenes"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse/plugins/gnu.io.rxtx_2.1.7.4_v20071016.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
